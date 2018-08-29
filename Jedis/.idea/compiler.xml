@@ -9,5 +9,8 @@
         <module name="Jedis" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Jedis" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
